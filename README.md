@@ -2,6 +2,8 @@
 
 > _"Build emerging and novel projects with secure coding. Secure the digital world through both defense and offense."_
 
+<br>
+
 <div align="right">
   <img src="https://img.shields.io/badge/Status-Living_Document-success?style=for-the-badge" alt="Status: Living Document" />
   <img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/Purpose?style=for-the-badge" alt="Last Updated" />
@@ -12,6 +14,8 @@
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge" alt="Focus: Security" />
   <img src="https://img.shields.io/badge/Focus-AI_Engineering-ff69b4?style=for-the-badge" alt="Focus: AI" />
 </div>
+
+<br>
 
 Hi, I'm **Sagar Biswas**. I'm a Computer Science & Engineering student at [AIUB](https://www.aiub.edu/) (Bangladesh), expected to graduate in **2028**. I've been building software and breaking into cybersecurity since before I knew what a "career path" even meant — and this document is the roadmap I'm following to turn that energy into something real.
 
