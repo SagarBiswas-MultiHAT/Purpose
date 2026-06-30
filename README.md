@@ -2,6 +2,17 @@
 
 > _"Build emerging and novel projects with secure coding. Secure the digital world through both defense and offense."_
 
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Living_Document-success?style=for-the-badge" alt="Status: Living Document" />
+  <img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/Purpose?style=for-the-badge" alt="Last Updated" />
+  <img src="https://img.shields.io/badge/Target-Senior_Engineer_2030-blue?style=for-the-badge" alt="Target: 2030" />
+  <img src="https://img.shields.io/badge/Graduation-AIUB_2028-0052cc?style=for-the-badge" alt="Graduation" />
+  <br />
+  <img src="https://img.shields.io/badge/Focus-Software_Engineering-blueviolet?style=for-the-badge" alt="Focus: SWE" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge" alt="Focus: Security" />
+  <img src="https://img.shields.io/badge/Focus-AI_Engineering-ff69b4?style=for-the-badge" alt="Focus: AI" />
+</div>
+
 Hi, I'm **Sagar Biswas**. I'm a Computer Science & Engineering student at [AIUB](https://www.aiub.edu/) (Bangladesh), expected to graduate in **2028**. I've been building software and breaking into cybersecurity since before I knew what a "career path" even meant — and this document is the roadmap I'm following to turn that energy into something real.
 
 This isn't a polished corporate strategy. It's my honest plan — what I'm studying, what I'm learning after graduation, and why I made every choice along the way. I wrote this for myself first, but I'm sharing it publicly because maybe it helps someone else figure out their own path too.
